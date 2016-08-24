@@ -1,0 +1,1 @@
+# Repo demostrating aspnet core tooling bug with XML doc
